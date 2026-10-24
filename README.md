@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Khmer Pre-Wedding Website 🇰🇭💍
 
 A responsive Khmer-inspired wedding invitation and pre-wedding gallery built with **React + Vite + Tailwind CSS v4**.
@@ -141,3 +142,6 @@ Note: Gallery photos are stored in this browser's local storage in this demo. Up
 The latest design adds ornament assets derived from the supplied deep-green and gold Khmer artwork. The original green background is keyed transparent so only the gold frame and carvings overlay the wedding photography. The art is used for the desktop hero frame, mobile corner ornaments, envelope emblem, paper/letter ornament, and decorative section divider. The page title and Khmer display headings load the Google Font **Moul**; the remaining body copy keeps the more readable Kantumruy Pro/Battambang fonts.
 
 New assets in `public/elements/` include `kbach-frame-overlay.png`, `kbach-corner-flourish.png`, `kbach-angkor-emblem.png`, `kbach-lotus-crown.png`, `kbach-lotus-divider.png`, and `kbach-butterfly.png`.
+=======
+# khmer-prewedding-so-danuth-vannara
+>>>>>>> origin/main
