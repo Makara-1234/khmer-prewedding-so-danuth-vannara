@@ -11,6 +11,8 @@ import {
   weddingStorageKey,
   rsvpStorageKey
 } from './data/defaultWedding.js';
+
+import BackgroundMusic from "./components/BackgroundMusic";
 import Countdown from './components/Countdown.jsx';
 import Gallery from './components/Gallery.jsx';
 import RSVPForm from './components/RSVPForm.jsx';

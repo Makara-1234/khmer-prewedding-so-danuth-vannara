@@ -41,7 +41,7 @@ export const defaultWedding = {
     }
   ],
 
-  venue: 'ភោជនីយដ្ឋាន ពិភពថ្មី, ភ្នំពេញ',
+  venue: 'ភោជនីយដ្ឋាន បុរីទំនើប០១, ភ្នំពេញ',
   address: 'Phnom Penh, Cambodia',
 
   story: 'ពីការស្គាល់គ្នាដំបូង រហូតដល់ថ្ងៃដែលយើងសម្រេចចិត្តដើរជាមួយគ្នា សូដានុត និង វណ្ណារ៉ា បានរកឃើញថា សុភមង្គលគឺជាការចែករំលែករឿងតូចៗជាមួយមនុស្សពិសេសម្នាក់។ យើងរីករាយណាស់ដែលមានអ្នកចូលរួមក្នុងថ្ងៃដ៏សំខាន់នេះ។',
@@ -121,3 +121,4 @@ export const defaultWedding = {
 
 export const weddingStorageKey = 'khmer-prewedding-settings-v1';
 export const rsvpStorageKey = 'khmer-prewedding-rsvps-v1';
+
